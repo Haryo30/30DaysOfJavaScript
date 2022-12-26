@@ -21,4 +21,4 @@ let regEx = /\d/g // d with escape character means d not a normal d instead acts
 console.log(txt.match(regEx)) // ["2", "0", "1", "9", "3", "0", "2", "0", "2", "0"]
 console.log(txt.match(/\d+/g)) // ["2019", "30", "2020"]
 
-C:\Users\Haryo Dewantoro\Pictures\Screenshots\Screenshot_20221222_145451.png
+// C:\Users\Haryo Dewantoro\Pictures\Screenshots\Screenshot_20221222_145451.png

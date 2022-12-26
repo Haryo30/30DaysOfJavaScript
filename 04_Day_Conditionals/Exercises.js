@@ -135,3 +135,4 @@ if (
 } else if (resultmonth == "february") {
   console.log(`${resultmonth} has 28 days`);
 }
+
